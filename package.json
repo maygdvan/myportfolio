@@ -1,0 +1,24 @@
+{
+  "name": "myportfolio",
+  "version": "1.0.0",
+  "description": "project page",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maygdvan/myportfolio.git"
+  },
+  "author": "may van",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maygdvan/myportfolio/issues"
+  },
+  "homepage": "https://github.com/maygdvan/myportfolio#readme",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
